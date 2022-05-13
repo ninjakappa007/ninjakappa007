@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ninjakappa007
-- 👀 I’m interested in ...java and sql
-- 🌱 I’m currently learning ...java and trying to get into web devlopment
-- 💞️ I’m looking to collaborate on ...web devlopment
-- 📫 How to reach me ...ashutoshnayak410@gmail.com
+-  Currently am new to Programing and currently learning java and trying to get into web devlopment.
+-  if you guys have any suggestion or colabs reach to me on ashutoshnayak410@gmail.com.
 
 <!---
 ninjakappa007/ninjakappa007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
