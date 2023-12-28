@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ninjakappa007
--  Currently am new to Programing and currently learning java and trying to get into web devlopment.
+- 👋 Hi, I’m Ashu .
+-  Currently am new to Programing and currently learning MERN and trying to get into web devlopment.
 -  if you guys have any suggestion or colabs reach to me on ashutoshnayak410@gmail.com.
 
 <!---
