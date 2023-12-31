@@ -1,4 +1,3 @@
-'''print("hello"'''
 - 👋 Hi, I’m Ashutosh right now working as a Testing Associate at amazon.
 -  Currently am learning MERN stack and trying to get into web devlopment.
 -  if you guys have any suggestion or colabs reach to me on ashutoshnayak410@gmail.com.
